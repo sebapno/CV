@@ -21,15 +21,16 @@ This is a personal CV website showcasing my skills, experience, and education. T
 ```sh
 git clone https://github.com/sebapno/cv-website.git
 cd cv-website
+````
 
 ### 2️⃣ Open in VS Code
-sh
-Copy
-Edit
+```sh
 code .
-
+````
 ### 3️⃣ Run the Project
+```sh
 Simply open cv.html in a browser.
+````
 
 🎨 Customization
 To update styles, modify cv.css.

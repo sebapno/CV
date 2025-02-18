@@ -1,4 +1,4 @@
-# Sebastian Pino - CV Website
+# Sebastian Pino - CV 
 
 This is a personal CV website showcasing my skills, experience, and education. The website is built using **HTML** and **CSS**, ensuring a professional and structured layout.
 
